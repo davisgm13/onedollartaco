@@ -1,0 +1,13 @@
+Install Istio:
+
+https://istio.io/docs/setup/kubernetes/quick-start/
+
+
+After Istio install
+
+
+https://codefresh.io/docs/docs/deploy-to-kubernetes/codefresh-kubernetes-integration-demochat-example/
+
+will want the demo app at : https://github.com/containers101/democh
+
+git clone https://github.com/containers101/demochat
