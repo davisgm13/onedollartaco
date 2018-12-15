@@ -1,10 +1,15 @@
+Some prereqs : 
+sudo apt-get install git
+sudo apt-get install docker.io
+
+
 Install Istio:
 
 https://istio.io/docs/setup/kubernetes/quick-start/
 
 
-After Istio install
-
+After Istio install : 
+Installing and example application (will use istio afterwards) : 
 
 https://codefresh.io/docs/docs/deploy-to-kubernetes/codefresh-kubernetes-integration-demochat-example/
 
