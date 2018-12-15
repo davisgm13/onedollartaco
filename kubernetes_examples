@@ -13,6 +13,11 @@ Installing and example application (will use istio afterwards) :
 
 https://codefresh.io/docs/docs/deploy-to-kubernetes/codefresh-kubernetes-integration-demochat-example/
 
-will want the demo app at : https://github.com/containers101/democh
+will want the demo app at : https://github.com/containers101/demo
 
-git clone https://github.com/containers101/demochat
+git clone https://github.com/containers101/demochatld
+
+build the docker container (pulls a lot of external stuff in)
+sudo docker build /home/greg/demochat
+
+
