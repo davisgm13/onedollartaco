@@ -1,4 +1,9 @@
-Some prereqs : 
+Simple example - Redis/guestbook
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+
+Problem deployment
+some prereqs : 
 sudo apt-get install git
 sudo apt-get install docker.io
 
