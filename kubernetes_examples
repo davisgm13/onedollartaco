@@ -26,3 +26,20 @@ build the docker container (pulls a lot of external stuff in)
 sudo docker build /home/greg/demochat
 
 
+Rocket Chat app : 
+
+https://www.xenonstack.com/blog/devops/how-to-deploy-rocket-chat-on-kubernetes
+
+ubuntu download verify links
+https://tutorials.ubuntu.com/tutorial/tutorial-how-to-verify-ubuntu?_ga=2.32932279.860260687.1545773775-1042985954.1541290936#2
+
+Kubernetes local install with LXD :
+https://kubernetes.io/docs/getting-started-guides/ubuntu/local/
+
+Kubeadm with single master node:
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+
+kubeadm install for multiple OSs including Ubuntu and Fedora
+https://kubernetes.io/docs/setup/independent/install-kubeadm/
+or: 
+Rancher RKE : https://github.com/rancher/rke/releases/tag/v0.1.14
