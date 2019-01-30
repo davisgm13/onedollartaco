@@ -43,3 +43,15 @@ kubeadm install for multiple OSs including Ubuntu and Fedora
 https://kubernetes.io/docs/setup/independent/install-kubeadm/
 or: 
 Rancher RKE : https://github.com/rancher/rke/releases/tag/v0.1.14
+
+1-29-2019 examples
+using a kubernetes service with a hello world app
+https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/
+
+Google hello-world app
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+sudo docker build -t hello-world-sample:v1 .
+kubectl create deployment hello-web --image=hello-world-sample:v1
+kubectl get pods ; kubectl get deployments ## for status
+
+
