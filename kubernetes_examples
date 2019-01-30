@@ -54,4 +54,5 @@ sudo docker build -t hello-world-sample:v1 .
 kubectl create deployment hello-web --image=hello-world-sample:v1
 kubectl get pods ; kubectl get deployments ## for status
 
-
+Kubernetes on Azure VMs :
+https://www.aaronmsft.com/posts/azure-vmss-kubernetes-kubeadm/
